@@ -1,0 +1,1 @@
+BULBAPEDIA_BASE_URL = "https://bulbapedia.bulbagarden.net/wiki/"
